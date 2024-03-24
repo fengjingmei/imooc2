@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ece9b90a-65fe-4854-888b-2bd752ffc8a6" name="imooc" url="http://8.130.97.231">
+        <fileTransfer accessType="SFTP" host="8.130.97.231" port="22" sshConfigId="a92642c5-9279-4afc-b527-0ddd63818497" sshConfig="root@8.130.97.231:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
